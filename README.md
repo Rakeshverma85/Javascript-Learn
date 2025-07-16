@@ -1,2 +1,2 @@
-# Javascript-Learn
+# Javascript
 Code for Js for own learning
